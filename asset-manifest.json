@@ -1,8 +1,18 @@
 {
-  "main.css": "/static/css/main.39be9100.css",
-  "main.js": "/static/js/main.5e74bf55.js",
-  "main.css.map": "/static/css/main.39be9100.css.map",
-  "main.js.map": "/static/js/main.5e74bf55.js.map",
+  "main.css": "/static/css/main.4c308f19.css",
+  "main.js": "/static/js/main.7ed40bb3.js",
+  "main.css.map": "/static/css/main.4c308f19.css.map",
+  "main.js.map": "/static/js/main.7ed40bb3.js.map",
   "index.html": "/index.html",
-  "static/media/portrait.jpg": "/static/media/portrait.63001d0f.jpg"
+  "static/media/crka-about.png": "/static/media/crka-about.11b4871f.png",
+  "static/media/crka-meta.png": "/static/media/crka-meta.8970cf45.png",
+  "static/media/crka-title.png": "/static/media/crka-title.fc81164a.png",
+  "static/media/portrait.jpg": "/static/media/portrait.63001d0f.jpg",
+  "static/media/senior-asteroids.png": "/static/media/senior-asteroids.eb6c2c7f.png",
+  "static/media/senior-enemy.png": "/static/media/senior-enemy.f36e1943.png",
+  "static/media/senior-loot.png": "/static/media/senior-loot.9bb483b1.png",
+  "static/media/taluvo-large.png": "/static/media/taluvo-large.39f5a5ee.png",
+  "static/media/taluvo-small.png": "/static/media/taluvo-small.3c1d504b.png",
+  "static/media/taluvo-title.png": "/static/media/taluvo-title.d9595836.png",
+  "static/media/wylaga-logo.png": "/static/media/wylaga-logo.86fb0434.png"
 }
